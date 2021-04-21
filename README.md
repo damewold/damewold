@@ -30,6 +30,16 @@ Believe in giving back and contributing to our Tech community.
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://dev.to/wolde_ai)
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damewold)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=damewold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **damewold/damewold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
