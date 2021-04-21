@@ -40,7 +40,7 @@ Believe in giving back and contributing to our Tech community.
 ---
 ## Credit
 
-Github-readme-stats:[Anurag Hazra](https://github.com/anuraghazra)
+Github-readme-stats:[Anurag Hazra](https://github.com/anuraghazra)<br/>
 Demo:[📹Catalinpit](https://www.youtube.com/watch?v=p5hf8i-OzlQ&list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&index=33) 
 
 
