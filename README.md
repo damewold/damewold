@@ -35,7 +35,7 @@ Believe in giving back and contributing to our Tech community.
 ## &#x1f4c8; My GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damewold&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=damewold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damewold&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=damewold&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
