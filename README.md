@@ -5,6 +5,14 @@ A Frontend developer who enjoys building responsive websites that are user frien
 Driven to solve problems by coming up with creative solutions using software developement.<br/>
 Believe in giving back and contributing to our Tech community.
 
+- 🔭 I’m currently working on fixing my portfolio website at [👨🏾‍💻Denis Woldemariam](https://wolde.dev/#/)
+- 👯 I’m looking to collaborate on building intersting projects through open source projects.
+- 🤔 I’m looking for help with learning Python & working to becom a security engineer.
+- 🌱 I’m currently learning to take the AWS Cloud computing exam. Wish me luck🤞🏾.
+- 💬 Ask me about my career aspiration, coding & my hobies.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/denis-woldemariam/), [Gmail]()
+
+
 
 
 <!--
