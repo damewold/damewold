@@ -25,11 +25,11 @@ Believe in giving back and contributing to our Tech community.
 ---
 
 📘 Latest Blog Articles
-
-▶ [...more blog articles](https://dev.to/wolde_ai)
+<!-- BLOG-POST-LIST:START -->
 
 
 <!-- BLOG-POST-LIST:END -->
+▶ [...more blog articles](https://dev.to/wolde_ai)
 
 <!--
 **damewold/damewold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
