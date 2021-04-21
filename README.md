@@ -1,4 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" Hieght="30px" >, I am Denis!
+
 ## <img src="https://img.shields.io/github/stars/damewold?style=social"> <img src="https://img.shields.io/github/followers/damewold?style=social"> <img src="https://img.shields.io/twitter/follow/wolde_ai?style=social" > <img src="https://img.shields.io/youtube/channel/views/UCVAIuS-dU9TWYxiR2CIFd2A?style=social" >
 
 A Frontend developer who enjoys building responsive websites that are user friendly by optimizing user experience & accessibility.<br/>
@@ -12,6 +13,10 @@ Believe in giving back and contributing to our Tech community.
 - 💬 Ask me about my career aspiration, networking & my journey into Tech.
 - ⚡ Fun fact: I love running & complete multiple half marathons.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/denis-woldemariam/) & <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=damewold@gmail.com" target="_blank">Gmail</a>.
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 
 
 
