@@ -11,7 +11,7 @@ Believe in giving back and contributing to our Tech community.
 - 🌱 I’m currently learning to take the AWS Cloud computing exam. Wish me luck🤞🏾.
 - 💬 Ask me about my career aspiration, networking & my journey into Tech.
 - ⚡ Fun fact: I love running & complete multiple half marathons.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/denis-woldemariam/), <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=damewold@gmail.com" target="_blank">Gmail</a>.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/denis-woldemariam/) or <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=damewold@gmail.com" target="_blank">Gmail</a>.
 
 
 
