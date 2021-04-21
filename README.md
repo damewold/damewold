@@ -1,4 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" Hieght="30px" >, I am Denis!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" Hieght="30px" >, I am Denis!
+## <img src="https://img.shields.io/github/stars/damewold?style=social"> <img src="https://img.shields.io/github/followers/damewold?style=social">  <img src="https://img.shields.io/website?url=https%3A%2F%2Fwolde.dev%2F%23%2F">
+
+
 
 <!--
 **damewold/damewold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
