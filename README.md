@@ -38,7 +38,10 @@ Believe in giving back and contributing to our Tech community.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damewold&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=damewold&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## Credit
 
+Github-readme-stats:[Anurag Hazra](https://github.com/anuraghazra)
+Demo:[📹Catalinpit](https://www.youtube.com/watch?v=p5hf8i-OzlQ&list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&index=33) 
 
 
 <!--
