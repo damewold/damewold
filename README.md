@@ -9,7 +9,7 @@ Believe in giving back and contributing to our Tech community.
 
 - 🔭 I’m currently working on fixing my portfolio website at [👨🏾‍💻Denis Woldemariam](https://wolde.dev/#/)
 - 👯 I’m looking to collaborate on building intersting projects through open source projects.
-- 🤔 I’m looking for help with learning Python & working to becom a security engineer.
+- 🤔 I’m looking for help with learning Python & working to become a security engineer.
 - 🌱 I’m currently learning to take the AWS Cloud computing exam. Wish me luck🤞🏾.
 - 💬 Ask me about my career aspiration, networking & my journey into Tech.
 - ⚡ Fun fact: I love running & completed multiple half marathons.
