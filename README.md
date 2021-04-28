@@ -24,6 +24,12 @@ Believe in giving back and contributing to our Tech community.
 
 ---
 
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
 - [How I got into software engineering](https://dev.to/wolde_ai/how-i-got-into-software-engineering-23e1)
