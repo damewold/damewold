@@ -32,6 +32,7 @@ Believe in giving back and contributing to our Tech community.
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to prevent burnouts](https://dev.to/wolde_ai/how-to-prevent-burnouts-46k8)
 - [How I got into software engineering](https://dev.to/wolde_ai/how-i-got-into-software-engineering-23e1)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://dev.to/wolde_ai)
