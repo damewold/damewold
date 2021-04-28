@@ -27,7 +27,7 @@ Believe in giving back and contributing to our Tech community.
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [About Me](https://www.youtube.com/watch?v=Eon2Ef_1XKo)
+
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 📘 Latest Blog Articles
