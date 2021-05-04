@@ -4,8 +4,8 @@ on:
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
-  update-readme-with-hashnode-blog:
-    name: Update this repo's README with the latest hashnode blog posts
+  update-readme-with-devto-blog:
+    name: Update this repo's README with the latest dev.to blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
