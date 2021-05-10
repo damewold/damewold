@@ -33,6 +33,7 @@ Believe in giving back and contributing to our Tech community.
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Let VS Const Vs Var](https://dev.to/wolde_ai/let-vs-const-vs-var-4mef)
 - [High order functions](https://community.codenewbie.org/wolde_ai/high-order-functions-4lhf)
 - [How to prevent burnouts](https://dev.to/wolde_ai/how-to-prevent-burnouts-46k8)
 - [How I got into software engineering](https://dev.to/wolde_ai/how-i-got-into-software-engineering-23e1)
