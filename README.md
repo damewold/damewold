@@ -34,7 +34,6 @@ Believe in giving back and contributing to our Tech community.
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
 - [High order functions](https://community.codenewbie.org/wolde_ai/high-order-functions-4lhf)
-- [Just testing](https://community.codenewbie.org/wolde_ai/just-testing-1gig)
 - [How to prevent burnouts](https://dev.to/wolde_ai/how-to-prevent-burnouts-46k8)
 - [How I got into software engineering](https://dev.to/wolde_ai/how-i-got-into-software-engineering-23e1)
 <!-- BLOG-POST-LIST:END -->
