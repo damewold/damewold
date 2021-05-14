@@ -33,11 +33,11 @@ Believe in giving back and contributing to our Tech community.
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [What is Execution context](https://dev.to/wolde_ai/what-is-execution-context-3dkb)
 - [GIT ~ Learn  the basics [Part One]](https://community.codenewbie.org/wolde_ai/git-learn-the-basics-part-one-1f6b)
 - [What is scope?](https://dev.to/wolde_ai/what-is-scope-598i)
 - [Let VS Const Vs Var](https://dev.to/wolde_ai/let-vs-const-vs-var-4mef)
 - [High order functions](https://community.codenewbie.org/wolde_ai/high-order-functions-4lhf)
-- [How to prevent burnouts](https://dev.to/wolde_ai/how-to-prevent-burnouts-46k8)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://dev.to/wolde_ai)
 
