@@ -29,7 +29,7 @@ Believe in giving back and contributing to our Tech community.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-▶ [...more youTube Videos](https://www.youtube.com/channel/UCVAIuS-dU9TWYxiR2CIFd2A)
+▶ [...more youTube Videos](https://www.youtube.com/channel/UCozdT-rvs13ScaSMKxCcxdA)
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
