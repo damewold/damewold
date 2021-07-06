@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" Hieght="30px" >, I am Denis!
-## <img src="https://img.shields.io/github/stars/damewold?style=social"> <img src="https://img.shields.io/github/followers/damewold?style=social"> <img src="https://img.shields.io/twitter/follow/wolde_ai?style=social" > 
+## <img src="https://img.shields.io/github/stars/damewold?style=social"> <img src="https://img.shields.io/github/followers/damewold?style=social"> <img src="https://img.shields.io/twitter/follow/WoldeMar_I_Am?style=social" > 
 
 A Frontend developer who enjoys building responsive websites that are user friendly by optimizing user experience & accessibility.<br/>
 Driven to solve problems by coming up with creative solutions using software developement.<br/>
